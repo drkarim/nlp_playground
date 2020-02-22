@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 
 #%%
 import pandas as pd
-data=pd.read_csv('train.tsv', sep='\t')
+data=pd.read_csv('./data/train.tsv', sep='\t')
 data.head()
 data.info()
 data.Sentiment.value_counts()
