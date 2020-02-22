@@ -1,3 +1,10 @@
+''' 
+    Examples of Word Vectoriser in SkLearn 
+    Source: https://kavita-ganesan.com/how-to-use-countvectorizer/#.XlEbCJP7RbU
+
+
+
+''' 
 #%% 
 from sklearn.preprocessing import normalize
 from sklearn.feature_extraction.text import TfidfVectorizer

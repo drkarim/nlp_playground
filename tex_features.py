@@ -1,3 +1,9 @@
+''' 
+    Example of Count Vectoriser 
+    Source: https://kavita-ganesan.com/how-to-use-countvectorizer/#.XlEbCJP7RbU
+
+'''
+
 #%%
 from sklearn.feature_extraction.text import CountVectorizer
 from nltk.tokenize import RegexpTokenizer

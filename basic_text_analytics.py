@@ -1,3 +1,9 @@
+''' 
+    Tutorial on NLTK 
+    Source: https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+
+'''
+
 #%% 
 #Loading NLTK
 import nltk
