@@ -7,6 +7,7 @@
 #%% 
 #Loading NLTK
 import nltk
+nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
